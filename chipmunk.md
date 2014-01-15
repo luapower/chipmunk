@@ -1,7 +1,6 @@
 ---
 project:     chipmunk
 tagline:     chipmunk physics engine
-category:    Animation
 ---
 
 ## `local chipmunk = require'chipmunk'`
