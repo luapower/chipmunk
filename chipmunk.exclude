@@ -1,0 +1,12 @@
+*
+!/bin/
+!/csrc/
+!/bin/mingw32/
+!/bin/linux32/
+!/media/
+
+!/chipmunk*
+!/bin/mingw32/chipmunk*
+!/bin/linux32/libchipmunk*
+!/csrc/chipmunk/
+!/csrc/chipmunk/**
