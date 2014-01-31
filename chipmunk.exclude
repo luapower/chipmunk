@@ -1,12 +1,26 @@
 *
 !/bin/
-!/csrc/
 !/bin/mingw32/
+!/bin/mingw64/
 !/bin/linux32/
+!/bin/linux64/
+!/bin/osx32/
+!/bin/osx64/
+!/bin/mingw32/clib/
+!/bin/mingw64/clib/
+!/bin/linux32/clib/
+!/bin/linux64/clib/
+!/bin/osx32/clib/
+!/bin/osx64/clib/
+!/csrc/
 !/media/
 
 !/chipmunk*
 !/bin/mingw32/chipmunk*
+!/bin/mingw64/chipmunk*
 !/bin/linux32/libchipmunk*
+!/bin/linux64/libchipmunk*
+!/bin/osx32/libchipmunk*
+!/bin/osx64/libchipmunk*
 !/csrc/chipmunk/
 !/csrc/chipmunk/**
