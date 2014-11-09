@@ -1,2 +1,2 @@
-gcc -arch i386 -O2 src/*.c src/constraints/*.c -shared -install_name @loader_path/libchipmunk.dylib -o ../../bin/osx32/libchipmunk.dylib -Iinclude/chipmunk \
-	-std=gnu99 -Wall -ffast-math -DNDEBUG -DCHIPMUNK_FFI
+P=osx32 C="-arch i386" L="-arch i386 -install_name @loader_path/libchipmunk.dylib" \
+	D=libchipmunk.dylib A=libchipmunk.a ./build.sh

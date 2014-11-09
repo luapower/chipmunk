@@ -12,6 +12,12 @@
 !/bin/linux64/clib/
 !/bin/osx32/clib/
 !/bin/osx64/clib/
+!/bin/mingw32/static/
+!/bin/mingw64/static/
+!/bin/linux32/static/
+!/bin/linux64/static/
+!/bin/osx32/static/
+!/bin/osx64/static/
 !/csrc/
 !/media/
 
