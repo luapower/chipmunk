@@ -7,7 +7,7 @@ tagline: chipmunk physics engine
 
 A ffi binding of the Chipmunk2D physics engine.
 
-### Status
+## Status
 
 Currently, there's the usual windows binary and build script, sanitized header for ffi,
 module stub exporting the ffi clib object, and a demo stub. A Lua-friendly API is missing.
