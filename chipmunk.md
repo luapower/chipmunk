@@ -1,5 +1,4 @@
 ---
-project: chipmunk
 tagline: chipmunk physics engine
 ---
 
